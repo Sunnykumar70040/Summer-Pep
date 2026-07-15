@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0307-range-sum-query-mutable) |
+| [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -25,10 +26,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
