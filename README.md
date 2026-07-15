@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0307-range-sum-query-mutable) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0307-range-sum-query-mutable) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
