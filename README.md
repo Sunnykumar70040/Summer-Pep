@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
 ## Depth-First Search
 |  |
@@ -67,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
