@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0542-01-matrix) |
 | [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -82,4 +83,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
