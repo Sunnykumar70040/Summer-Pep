@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0997-find-the-town-judge) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/2497-maximum-star-sum-of-a-graph) |
 ## Heap (Priority Queue)
 |  |
