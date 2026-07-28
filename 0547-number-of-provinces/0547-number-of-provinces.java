@@ -1,25 +1,25 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        boolean[] vis = new boolean[n];
-        int count = 0;
+        boolean[] visited = new boolean[n];
+        int provinces = 0;
 
         for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                dfs(i, isConnected, vis);
-                count++;
+            if (!visited[i]) {
+                dfs(isConnected, visited, i);
+                provinces++;
             }
         }
 
-        return count;
+        return provinces;
     }
 
-    void dfs(int node, int[][] graph, boolean[] vis) {
-        vis[node] = true;
+    private void dfs(int[][] graph, boolean[] visited, int city) {
+        visited[city] = true;
 
         for (int i = 0; i < graph.length; i++) {
-            if (graph[node][i] == 1 && !vis[i]) {
-                dfs(i, graph, vis);
+            if (graph[city][i] == 1 && !visited[i]) {
+                dfs(graph, visited, i);
             }
         }
     }
