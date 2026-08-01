@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0213-house-robber-ii) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0781-rabbits-in-forest) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
