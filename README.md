@@ -151,8 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0781-rabbits-in-forest) |
+| [2409-count-days-spent-together](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/0031-next-permutation) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/Sunnykumar70040/Summer-Pep/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
